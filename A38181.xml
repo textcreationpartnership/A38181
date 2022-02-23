@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas both Houses of Parliament have appointed certaine ships to bee set forth this spring for guard of the narrow seas, preservation of trade and for the necessary defence of this kingdome &amp; other His Majesties dominions which at this time is of great necessity ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38181</idno>
+            <idno type="STC">Wing E2467</idno>
+            <idno type="STC">ESTC R34903</idno>
+            <idno type="EEBO-CITATION">14906527</idno>
+            <idno type="OCLC">ocm 14906527</idno>
+            <idno type="VID">102840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1569:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas both Houses of Parliament have appointed certaine ships to bee set forth this spring for guard of the narrow seas, preservation of trade and for the necessary defence of this kingdome &amp; other His Majesties dominions which at this time is of great necessity ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Blaiklock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of page: Die Veneris 21 February, 1644.</note>
+                  <note>"Ordered by the Lords and Commons assembled in Parliament that this ordinance bee forthwith printed and published. Jo. Browne Cleric. Parliamentorum."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:102840:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <opener>
+               <dateline>
+                  <date>Die Veneris 21 February, 1644.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas both Houſes of Parliament, have appointed certaine Ships to bee ſet forth this Spring for Guard of the Narrow Seas, preſervation of Trade, and for the neceſſary defence of this Kingdome, &amp; other his Majeſties Domini<g ref="char:EOLhyphen"/>ous, which at this time is of great neceſſity, conſidering not only the home-bred diſtractions of this Kingdome, and of <hi>Ireland;</hi> but the great preparations which are making already in forraign Parts, in aide and encouragement of the Pa<g ref="char:EOLhyphen"/>piſts, and ill affected Party amongſt our ſelves now up in Armes againſt the Parliament: And whereas there is occaſion as well at preſent as hereafter will be, for impreſting of Marriners for the ſaid ſervice; Be it therefore ordained by the Lords and Commons in this preſent Parliament aſſembled, That the Lord high Admirall of <hi>England</hi> appointed by both Houſes of Parliament, ſhall and may at any time or times, from the day of the date hereof, unto the firſt day of <hi>Ianuary, 1645.</hi> by himſelf, his Commiſſioner or Commiſſioners, Officer or Officers, or any of them, raiſe, leavy, and impreſſe ſuch and ſo many Marriners, Sailors, Watermen, Chirurgions, Gunners, Ship-Carpenters Caukers and Whoymen, as alſo Carmen for carriage of victuals, &amp;c. as ſhall be requiſite and neceſſary for the ſer<g ref="char:EOLhyphen"/>vice aforeſaid, or for any ſuch further defence of this Realm, or any other of his Majeſties Dominions: which ſaid Marriners, Sailors, and other ſuch Perſons ſo to be leavied and impreſſed as aforeſaid, and every of them ſhall have payd and delivered unto him upon ſuch his Impreſſing by the perſon that ſhall ſo impreſſe him, for conduct money for every mile from the place where hee ſhall bee ſo iwpreſt to the ſhip or place where he ſhall be appointed to make his repayre, the ſumme of one penny to each man, and the like ſumme of one penny for every mile from the place of his diſcharge unto the place of his aboad, and ſhall be allowed for this ſervice the ſame wages and entertainment in all reſpects which hath bin allowed by the Parliament this laſt yeare to any ſuch perſon or perſons employed in the ſayd ſervice. And if any Mariner, Saylor, Waterman, Chirurgion, Gunner, Ship-carpenter, Cau<g ref="char:EOLhyphen"/>ker, Whoyman, or Carman, ſhall wilfully refuſe to be impreſſed in or for the ſaid ſervice, or ſhall vo<g ref="char:EOLhyphen"/>luntarily hide or abſent himſelfe at the time of ſuch preſſe, to avoid the ſaid ſervice, or receiving his ſaid conduct moneys, doe not appeare at ſuch places and times as by his Ticket he is appointed; that then any ſuch Perſon ſo offending, ſhall ſuffer impriſonment for the ſpace of three moneths without Baile or Mainprize; Provided alwayes, and be it ordained that no money or other reward ſhall bee taken, or any corrupt practice uſed by any the Perſons Authorized by this Ordinance, in or for the preſſing, changing, ſparing, or diſcharging of any Perſon or Perſons to be impreſt as aforeſaid, as they will anſwer ſuch offence in Parliament. And all Deputy Lievtenants, Mayors, Bayliffs, Conſtables, and all other inferiour Officers, are hereby required and enjoyned to bee aiding and aſſiſting from time to time to the Perſons Authorized by this Ordinance, according to the true intent and meaning thereof; Provided alwayes that this Ordinance ſhall not extend to the preſſing of any Maſter, or Maſters Mate, Gunner, Carpenter, or Boat-ſwaine of any Ship or Veſſell, that is or ſhall be in imployment: And for the better encouragment, both of Sea-men and watermen, to apply themſelves the more willingly to this ſervice, It is further ordained by the Lords and Commons in Parliament, That all Marri<g ref="char:EOLhyphen"/>ners, Sailors, and likewiſe all watermen, who have ſerved an Apprentiſhip by the ſpace of ſeven years in their ſaid Profeſſions, or that are ſervants and Apprentiſes by Indenture to any ſuch watermen, ſhall hereby be freed and exempt from being preſſed to ſerve as Souldiers in any land ſervice, except in caſe of extreame neceſſity, and that with the conſent and privity of the Lord high Admirall of <hi>England,</hi> or by expreſſe Order of both Houſes of Parliament.</p>
+         </div>
+         <div type="license">
+            <p>Ordered by the Lords and Commons aſſembled in Parliament, that this Ordinance bee forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Jo. Browne Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> printed for <hi>Laurence Blaiklock,</hi> neare Temple Barre, 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
